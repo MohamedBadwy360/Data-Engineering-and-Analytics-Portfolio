@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Analysis Portfolio
 
 ## Skill-based Projects
 
